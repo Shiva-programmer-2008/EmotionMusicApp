@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+pillow
+transformers
+torch
+youtubesearchpython
+opencv-python-headless
+# fer  # include only if using fer (may need extra steps)
