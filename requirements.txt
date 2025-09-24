@@ -1,9 +1,10 @@
 streamlit
-pandas
-numpy
-pillow
 transformers
 torch
-youtubesearchpython
+torchvision
+torchaudio
 opencv-python-headless
-# fer  # include only if using fer (may need extra steps)
+pillow
+google-api-python-client
+requests
+
